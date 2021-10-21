@@ -6,7 +6,7 @@ sum=0
 
 # Creating a 'for' loop to access every element in the list
 for num in numbers:
-  # Add 'num' to 'sum'
+  # Adding 'num' to 'sum'
   sum=sum+num
 
 # Printing the value of 'sum'
